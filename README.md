@@ -71,6 +71,7 @@ IP_Addressing_Plan.xlsx
 The objective is to apply security thinking during the design phase.
 
 ## Repository Structure
+
 ├── network-design.pkt
 ├── IP_Addressing_Plan.xlsx
 └── configs/
@@ -79,6 +80,7 @@ The objective is to apply security thinking during the design phase.
     ├── SW-Layer3-HCM_config.txt
     ├── SW-Layer3-DN_config.txt
     └── IPS_config.txt
+
 All device configurations are separated to reflect real-world deployment practices.
 
 ## Technologies Used
@@ -111,7 +113,7 @@ Nguyen Ho Yen Oanh
 Network Engineering Student
 Ho Chi Minh City, Vietnam
 
-==============================================================================================================================================================================
+================================================================================================
 # Thiết Kế Hệ Thống Mạng Doanh Nghiệp Nhỏ
 ## Tổng quan dự án
 Dự án này mô phỏng thiết kế hệ thống mạng cho một doanh nghiệp nhỏ có hai chi nhánh:
