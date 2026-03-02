@@ -113,7 +113,7 @@ Nguyen Ho Yen Oanh
 Network Engineering Student
 Ho Chi Minh City, Vietnam
 
-================================================================================================
+============================================
 # Thiết Kế Hệ Thống Mạng Doanh Nghiệp Nhỏ
 ## Tổng quan dự án
 Dự án này mô phỏng thiết kế hệ thống mạng cho một doanh nghiệp nhỏ có hai chi nhánh:
